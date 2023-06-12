@@ -1,0 +1,41 @@
+# The Roadmap is Divided into 30 Sections
+- [Introduction and Basic](#introduction-and-basic)
+- [Operators](#operators)
+- [Conditional Statements](#conditional-statements)
+- [While Loops](#while-loops)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+- [Introduction and Basic](#introduction-and-basic)
+
+# Introduction and Basic
+- Installation
+- Python Org, Python 3
+- Variables
+- Print function
+- Input from user
+- Data types
+- Type Conversion
+- First Program
