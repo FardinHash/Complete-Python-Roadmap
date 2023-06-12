@@ -2,7 +2,7 @@
 - [Introduction and Basic](#introduction-and-basic)
 - [Operators](#operators)
 - [Conditional Statements](#conditional-statements)
-- [While Loops](#while-loops)
+- [While Loop](#while-loops)
 - [Introduction and Basic](#introduction-and-basic)
 - [Introduction and Basic](#introduction-and-basic)
 - [Introduction and Basic](#introduction-and-basic)
