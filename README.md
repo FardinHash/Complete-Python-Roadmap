@@ -5,8 +5,8 @@
 4. [While Loop](#while-loops)
 5. [Lists](#lists) 
 6. [Strings](#strings)
-7. For Loop 
-8. Functions 
+7. [For Loop](#for-loop)
+8. [Functions](#function)
 9. Dictionary 
 10. Tuples 
 11. Set 
