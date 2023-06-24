@@ -7,7 +7,7 @@
 6. [Strings](#strings)
 7. [For Loop](#for-loop)
 8. [Functions](#function)
-9. Dictionary 
+9. Dictionary  
 10. Tuples 
 11. Set 
 12. Object-Oriented Programming 
