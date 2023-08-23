@@ -1,5 +1,5 @@
 # The Roadmap is Divided into 30 Sections
-## Table of Contents
+## Modules
 
 1. [Introduction and Basics of Python](#1-introduction-and-basics-of-python)
 2. [Operators](#2-operators)
@@ -31,5 +31,17 @@
 28. [Data Analysis with Pandas](#28-data-analysis-with-pandas)
 29. [Data Visualization with Matplotlib](#29-data-visualization-with-matplotlib)
 30. [What to do Now?](#30-what-to-do-now)
+
+---
+
+## 1. Introduction and Basics of Python
+- Installation
+- Python Org, Python 3
+- Variables
+- Print function
+- Input from user
+- Data Types
+- Type Conversion
+- First Program
 
 
