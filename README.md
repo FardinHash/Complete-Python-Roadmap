@@ -1,66 +1,35 @@
 # The Roadmap is Divided into 30 Sections
-1. [Introduction and Basic](#introduction-and-basic)
-2. [Operators](#operators)
-3. [Conditional Statements](#conditional-statements)
-4. [While Loop](#while-loops)
-5. [Lists](#lists) 
-6. [Strings](#strings)
-7. [For Loop](#for-loop)
-8. [Functions](#function)
-9. Dictionary  
-10. Tuples  
-11. Set 
-12. Object-Oriented Programming  
-13. File Handling 
-14. Exception Handling 
-15. Regular Expression 
-16. Modules and Packages 
-17. Data Structures 
-18. Higher-Order Functions 
-19. Python Web Scrapping 
-20. Virtual Environment 
-21. Web Application Project 
-22. Git and GitHub 
-23. Deployment 
-24. Python Package Manager 
-25. Python with MongoDB Database 
-26. Building API 
-27. Statistics with NumPy 
-28. Data Analysis with Pandas 
-29. Data Visualization with Matplotlib 
-30. What to do Now?
+## Table of Contents
 
-# Introduction and Basic
-- Installation
-- Python Org, Python 3
-- Variables
-- Print function
-- Input from user
-- Data types
-- Type Conversion
-- First Program
-# Operators
-- Arithmetic Operators
-- Relational Operators
-- Bitwise Operators
-- Logical Operators
-- Assignment Operators
-- Compound Operators
-- Membership Operators 
-- Identity Operators
-# Conditional Statements
-- If Else
-- If
-- Else
-- El If (Else if)
-- If else Ternary Expression
-# While Loop
-- While loop logic building
-- Series based questions
-- Break
-- Continue
-- Nested While
-- Pattern based questions
-- Pass
-- Loop else
+1. [Introduction and Basics of Python](#1-introduction-and-basics-of-python)
+2. [Operators](#2-operators)
+3. [Conditional Statements](#3-conditional-statements)
+4. [While Loops](#4-while-loops)
+5. [Lists](#5-lists)
+6. [Strings](#6-strings)
+7. [For Loops](#7-for-loops)
+8. [Functions](#8-functions)
+9. [Dictionary](#9-dictionary)
+10. [Tuples](#10-tuples)
+11. [Set](#11-set)
+12. [Object-Oriented Programming](#12-object-oriented-programming)
+13. [File Handling](#13-file-handling)
+14. [Exception Handling](#14-exception-handling)
+15. [Regular Expression](#15-regular-expression)
+16. [Modules and Packages](#16-modules-and-packages)
+17. [Data Structures](#17-data-structures)
+18. [Higher-Order Functions](#18-higher-order-functions)
+19. [Python Web Scraping](#19-python-web-scraping)
+20. [Virtual Environment](#20-virtual-environment)
+21. [Web Application Project](#21-web-application-project)
+22. [Git and GitHub](#22-git-and-github)
+23. [Deployment](#23-deployment)
+24. [Python Package Manager](#24-python-package-manager)
+25. [Python with MongoDB Database](#25-python-with-mongodb-database)
+26. [Building API](#26-building-api)
+27. [Statistics with NumPy](#27-statistics-with-numpy)
+28. [Data Analysis with Pandas](#28-data-analysis-with-pandas)
+29. [Data Visualization with Matplotlib](#29-data-visualization-with-matplotlib)
+30. [What to do Now?](#30-what-to-do-now)
+
 
