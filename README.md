@@ -1,4 +1,4 @@
-# Complete Python Roadmap (Divided into 30 Modules) 
+# Complete Python Roadmap (Divided into 30 Modules) 🔥💻
 
 | Categories                     | Modules                                               |
 |--------------------------------|-------------------------------------------------------|
