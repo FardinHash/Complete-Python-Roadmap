@@ -34,14 +34,3 @@
 
 ---
 
-## 1. Introduction and Basics of Python
-- Installation
-- Python Org, Python 3
-- Variables
-- Print function
-- Input from user
-- Data Types
-- Type Conversion
-- First Program
-
-
