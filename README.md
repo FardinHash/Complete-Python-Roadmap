@@ -261,6 +261,11 @@
 - Pie Chart
 - Histogram
 
+## Extras
+
+### 30. What to do Now?
+- Project Building
+
 ---
 
 <div align="center">
@@ -272,9 +277,4 @@
     &nbsp;&nbsp;
     <a href="mailto:fardin.opai@gmail.com">Email</a>
 </div>
-
-## Extras
-
-### 30. What to do Now?
-- Project Building
 
