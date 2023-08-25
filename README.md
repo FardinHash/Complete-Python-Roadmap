@@ -263,6 +263,16 @@
 
 ---
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/fardinkai">LinkedIn</a>
+    &nbsp;&nbsp;
+    <a href="https://www.fardinai.me/">Website</a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/fardinkai">Facebook</a>
+    &nbsp;&nbsp;
+    <a href="mailto:fardin.opai@gmail.com">Email</a>
+</div>
+
 ## Extras
 
 ### 30. What to do Now?
