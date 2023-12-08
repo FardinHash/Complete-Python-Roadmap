@@ -10,7 +10,7 @@
 | Web Development 🌐               | [Virtual Environment](#20-virtual-environment)<br>[Web Application Project](#21-web-application-project) |
 | Version Control and Deployment 🚀 | [Git and GitHub](#22-git-and-github)<br>[Deployment](#23-deployment) |
 | Data Analysis and Visualization 📊 | [Python Package Manager](#24-python-package-manager)<br>[Python with MongoDB Database](#25-python-with-mongodb-database)<br>[Building API](#26-building-api)<br>[Statistics with NumPy](#27-statistics-with-numpy)<br>[Data Analysis with Pandas](#28-data-analysis-with-pandas)<br>[Data Visualization with Matplotlib](#29-data-visualization-with-matplotlib) |
-| Extras 🌈                        | [What to do Now?](#30-what-to-do-now) |
+| Extras                         | [What to do Now?](#30-what-to-do-now) |
 
 ---
 
